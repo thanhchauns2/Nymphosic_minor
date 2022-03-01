@@ -1,0 +1,2 @@
+token = ""
+kawaii_token = ""
